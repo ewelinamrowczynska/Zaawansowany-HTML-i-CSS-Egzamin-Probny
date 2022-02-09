@@ -1,0 +1,23 @@
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+:root {
+    --main-color: rgb(1, 36, 186);
+    --accent-color: rgb(9, 216, 98);
+    --text-color: rgb(53, 53, 53);
+}
+
+body {
+    background: url("../images/background-img.jpg") center center no-repeat;
+background-size: cover;
+}
+.container {
+
+}
